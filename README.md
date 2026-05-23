@@ -6,10 +6,8 @@
   <img src="https://img.shields.io/badge/Stack-JDK21%2F25-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-> **让大数据如流水般自由汇聚、智能流转。** 
+> 让大数据如流水般自由汇聚、智能流转。
 > 专注于高性能分布式架构、大数据平台及规则引擎建设。
-
----
 
 ### 🌟 开源贡献 (Open Source)
 
@@ -20,8 +18,6 @@
 - 🎨 **Frontend:** [TDesign-vue](https://tdesign.tencent.com/)
 - 以及更多社区补丁贡献...
 
----
-
 ### ⚙️ 核心架构与产品 (Core Architecture & Products)
 
 | 项目名称 | 定位与描述 | 访问入口 |
@@ -29,9 +25,7 @@
 | **拖拽式大数据平台** | 零代码构建数字未来，实现数据智能流转 | [🌐 访问官网](https://dataplatform.cn) |
 | **分布式规则引擎** | 面向复杂业务逻辑的高性能处理中心 | [🔗 立即查看](http://ruleengine.cn/) |
 | **技术博客** | 深度技术沉淀、架构思考与工程实践分享 | [✍️ 阅读文章](http://apidocs.cn/blog/) |
-| **产品门户** | 开箱即用的大数据平台 + 规则引擎，可视化拖拽，零代码实现复杂业务逻辑，已服务多家知名企业 | [进入官网](http://shaiwz.com/) |
-
----
+| **产品门户** | 开箱即用的大数据平台 + 规则引擎，可视化拖拽，零代码实现复杂业务逻辑，已服务多家知名企业 | [✨ 进入官网](http://shaiwz.com/) |
 
 ### 📫 联系我 (Contact)
 
