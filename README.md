@@ -26,10 +26,10 @@
 
 | 项目名称 | 定位与描述 | 访问入口 |
 | :--- | :--- | :--- |
-| **DataPlatform** | **拖拽式大数据平台**：零代码构建数字未来，实现数据智能流转 | [🌐 访问官网](https://dataplatform.cn) |
-| **RuleEngine** | **分布式规则引擎**：面向复杂业务逻辑的高性能处理中心 | [🔗 立即查看](http://ruleengine.cn/) |
-| **Devin's Blog** | **技术博客**：深度技术沉淀、架构思考与工程实践分享 | [✍️ 阅读文章](http://apidocs.cn/blog/) |
-| **Official Site** | **个人门户**：个人作品集与最新动态导航 | [🏠 进入主页](https://shaiwz.com/home) |
+| **拖拽式大数据平台** | 零代码构建数字未来，实现数据智能流转 | [🌐 访问官网](https://dataplatform.cn) |
+| **分布式规则引擎** | 面向复杂业务逻辑的高性能处理中心 | [🔗 立即查看](http://ruleengine.cn/) |
+| **技术博客** | 深度技术沉淀、架构思考与工程实践分享 | [✍️ 阅读文章](http://apidocs.cn/blog/) |
+| **产品门户** | 开箱即用的大数据平台 + 规则引擎，可视化拖拽，零代码实现复杂业务逻辑，已服务多家知名企业 | [进入官网](http://shaiwz.com/) |
 
 ---
 
@@ -40,5 +40,3 @@
   <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=761945125"><img src="https://img.shields.io/badge/QQ-761945125-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" /></a>
   <a href="https://shaiwz.com/home"><img src="https://img.shields.io/badge/Website-shaiwz.com-000000?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
 </p>
-
----
