@@ -13,7 +13,7 @@
 
 我积极参与开源社区，致力于构建更高效的开发生态：
 
-- 🛠 **Backend:** [Hutool](https://hutool.cn/), [Flink CDC](https://github.com/apache/flink-cdc), [Spring JDBC](https://spring.io/projects/spring-data-jdbc)
+- 🛠 **Backend:** [Hutool](https://hutool.cn/), [Flink CDC](https://github.com/apache/flink-cdc), [Spring JDBC](https://spring.io/projects/spring-data-jdbc), [Debezium](https://github.com/debezium/debezium)
 - 📊 **ORM/Toolkit:** [Mybatis Plus](https://baomidou.com/)
 - 🎨 **Frontend:** [TDesign-vue](https://tdesign.tencent.com/)
 - 以及更多社区补丁贡献...
